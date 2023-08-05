@@ -1,2 +1,2 @@
-# olist
-olist brezilin data analysis and modeling
+#olist
+olist brazilian data analysis and modeling
