@@ -4,7 +4,7 @@
 //advavtages of inc. in no of orders - ecommerece 142% jump in revenue
 //specific months when the no. of orders increse on balce friday on nov. 24 -2017
 //libreries - cbond and mathplot - histogram , barplot , single 
-         pholium (density plot)- for the number of density plot of no. of orders in the brezil.
+         pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
 //freigth value - ek order ko deliver krne me kite paise jaa rhe h 
 no. of orders less then freight value is high 
 ave. freight value kam krna h toh no. of orders bdhana pdega .
@@ -30,4 +30,11 @@ COMMENT 10K , MOST USE WORD
 
 55% ARE ATISFIED AND 28% ARE UPSET
 
+
+//WORD CLUBD - NLTK 
+FROM THE COMMENT THEY REVIEW 
+ZADA FREQUNCY UTA BADA WORD AND VISE VERSA
+
+KITA % LOGO NE KY BOLA 
+39% LOG SAYING RECOMMEDO , GOOD , BOM , VERY GOOD  BE POSITIVE 
 
