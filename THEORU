@@ -5,6 +5,9 @@
 //specific months when the no. of orders increse on balce friday on nov. 24 -2017
 //libreries - cbond and mathplot - histogram , barplot , single 
          pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
+SK LEARN - FOR IMPORTING ALL MODELS 
+NLTK - WORD CLOUD
+
 //freigth value - ek order ko deliver krne me kite paise jaa rhe h 
 no. of orders less then freight value is high 
 ave. freight value kam krna h toh no. of orders bdhana pdega .
