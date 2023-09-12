@@ -1,51 +1,5 @@
-//by the time the data set is collected 97% of data is delovered
-//almost 65% of orders came from 3 state rj , sp ,mg .
-//positive trend in numbers orders from jan(2017) to aug (2018)almost 143%
-//advavtages of inc. in no of orders - ecommerece 142% jump in revenue
-//specific months when the no. of orders increse on balce friday on nov. 24 -2017
-//libreries - cbond and mathplot - histogram , barplot , single 
-         pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
-SK LEARN - FOR IMPORTING ALL MODELS 
-NLTK - WORD CLOUD
 
-//freigth value - ek order ko deliver krne me kite paise jaa rhe h 
-no. of orders less then freight value is high 
-ave. freight value kam krna h toh no. of orders bdhana pdega .
-
-//payment time analysis - fintech growth
-almost people use credit card 73% order are where use , creadit card has to be the part of 
-debit card in positive trend from may 2018 , 
-
-//seller analysis - no. of seller are from sp coz no. of order are high their
-
-//category - sports ,
-
-//undersatnding and preparing dat
-
-//TIME SERIES ANALYSIS - TIEM FRAM ME KY KY CHANGES AAYA  OR IT'S POSITI OR NEGTIVE IN THE TREND 
-
-//CJURN PREDICTION - HOW MUCH CHNCES THAT THE UPCOMPING CUSTOMER GOING TO CONTINE ORDERING AMD HOW MUCH LEFT 
-    97% ORDERS DONE BY ONCE 
-IT'S VERY UNBALENCED DATA SET ---  97% KA KUCH SMALL % 
-
-//NLP - ALL THE REVIEWS , RATING 5 STAR - 57.8%
-COMMENT 10K , MOST USE WORD
-
-55% ARE ATISFIED AND 28% ARE UPSET
-
-
-//WORD CLUBD - NLTK 
-FROM THE COMMENT THEY REVIEW 
-ZADA FREQUNCY UTA BADA WORD AND VISE VERSA
-
-KITA % LOGO NE KY BOLA 
-39% LOG SAYING RECOMMEDO , GOOD , BOM , VERY GOOD  BE POSITIVE 
-
-
-
-
-
-IST - IT IS LIEK AN AMAZON FOR BTEZILE .
+oIST - IT IS LIEK AN AMAZON FOR BTEZILE .
 IT'S CONTAIN MULTIPLE DATASET THAT'S MAKE IT LITTLE COMPLEX AS WELL AS CLOSS TO REAL LIFE 
 olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_payments,
             olist_order_reviews, olist_products,olist_seller
