@@ -17,10 +17,13 @@ olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_
 --advavtages of inc. in no. of orders - ecommerece 142% jump in revenue
 
 //specific months when the no. of orders increse on balck friday on nov. 24 -2017
-//libreries - seabond and matplotlib - histogram , barplot , single 
-         pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
+//libreries - seabond and matplotlib.PYPLOT(HOLD SUBMODULES use to plot 2d graph) - histogram , barplot , single 
+      from matplotlib import pyplot as plt
+pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
 SK LEARN - FOR IMPORTING ALL MODELS 
 NLTK - WORD CLOUD
+Python Create Test DataSets using Sklearn(dis - overfitting risk , adv - fast , flexible , secure)
+plt.clf() - clear the current figure
 
 //freigth value - ek order ko deliver krne me kite paise jaa rhe h 
 no. of orders less then freight value is high 
