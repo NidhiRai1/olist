@@ -22,6 +22,10 @@ olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_
 pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
 SK LEARN - FOR IMPORTING ALL MODELS 
 NLTK - WORD CLOUD
+nltk also inport stopword like is are were 
+  RSLPStemmer (liked , liking , likly replaced by like )
+JSON files are often use to store data that is use for traning and testing learning models .
+
 Python Create Test DataSets using Sklearn(dis - overfitting risk , adv - fast , flexible , secure)
 plt.clf() - clear the current figure
 
