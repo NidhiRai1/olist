@@ -20,7 +20,7 @@ olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_
 //libreries - seabond and matplotlib.PYPLOT(HOLD SUBMODULES use to plot 2d graph) - histogram , barplot , single 
       from matplotlib import pyplot as plt
 pholium (density plot)- for the  of density plot of no. of orders COMING FROM WHICH REGION in the brezil.
-SK LEARN - FOR IMPORTING ALL MODELS 
+SKikits LEARN - FOR IMPORTING ALL MODELS 
 NLTK - WORD CLOUD
 nltk also inport stopword like is are were 
   RSLPStemmer (liked , liking , likly replaced by like )
