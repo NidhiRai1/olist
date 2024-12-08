@@ -1,5 +1,55 @@
 
-oIST - IT IS LIEK AN AMAZON FOR BTEZILE .
+oIST - IT IS an e-commerce website LIKE AMAZon FOR Brazile .
+
+Libraries use for 
+
+Here’s the one-line explanation of each library along with a real-life example:
+
+1.pandas: For manipulating and analyzing tabular data.  
+ Example: Cleaning a sales dataset to compute total monthly sales for a store.
+
+2.numpy: Supports numerical operations and efficient array computations.  
+Example: Performing matrix multiplication for machine learning algorithms.
+
+3.matplotlib.pyplot: Creates static visualizations like line charts, bar graphs, or histograms.  
+Example: Plotting a company’s annual revenue trends.
+
+4.seaborn: Simplifies creating attractive and informative statistical visualizations.  
+Example: Visualizing customer age distributions with a violin plot.
+
+5.matplotlib.gridspec: Allows arranging subplots flexibly in a grid.  
+Example: Combining a sales trend chart and a product popularity pie chart in a dashboard layout.
+
+6.plotly.offline: Enables interactive plotting within Jupyter notebooks without an internet connection.  
+ Example: Exploring a dataset by interacting with scatterplots.
+
+7.plotly.express: Creates concise, interactive visualizations with minimal coding.  
+Example: Making a choropleth map to show population density across states.
+
+8.plotly.graph_objs: Provides fine-grained control for customizing Plotly charts.  
+Example: Adding custom annotations to an interactive line chart.
+
+9.json: Handles JSON data structures, often used in API responses.  
+Example: Parsing weather data fetched from an online API.
+
+10.requests: Facilitates sending HTTP requests to APIs or websites.  
+Example: Fetching real-time stock prices from a finance API.
+
+11.folium: Generates interactive maps for geospatial data.  
+Example: Creating a map of restaurant locations in a city.
+
+12.folium.plugins: Extends Folium’s features with tools like heatmaps or marker clusters.  
+Example: Visualizing crime hotspots in a city using a heatmap.
+
+13.wordcloud: Generates word clouds to visualize the frequency of words in text.  
+Example: Creating a word cloud from customer reviews to highlight popular product features.
+
+14.collections.Counter**: Counts occurrences of elements in a collection.  
+Example: Counting the most common job titles in an employee database.
+
+15.PIL (Image module): Processes and manipulates image files.  
+Example: Resizing and converting photos for a digital portfolio.
+
 IT'S CONTAIN MULTIPLE DATASET THAT'S MAKE IT LITTLE COMPLEX AS WELL AS CLOSS TO REAL LIFE 
 olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_payments,
             olist_order_reviews, olist_products,olist_seller
