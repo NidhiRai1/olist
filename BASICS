@@ -1,6 +1,8 @@
 
 oIST - IT IS an e-commerce website LIKE AMAZon FOR Brazile .
 
+E-commerce: a comparison between 2017 and 2018
+
 Libraries use for 
 
 Here’s the one-line explanation of each library along with a real-life example:
@@ -56,15 +58,18 @@ olist_customer, olist_geolocation, olist_orders, olist_order_items, olist_order_
 
 2.1 we were creating a datafram with different info.
 
-
+3.EXPLORATRY DATA ANALYSIS:
 3.1 ---
 //total order on e-commerece
 --By the time this dataset was created, the highest amount of orders went from delivered ones. Only 3% of all orders came from the other status.
 --almost 65% of orders came from 3 state rj , sp ,mg .this info. help to make the delivery fast their
---highedst order on 24 nov 2017 it;s black friday
---day of teh week - highest one monday 16.3%  and tiem of the day highest in afternoon alomost 39%
+--highedst order on 24 nov 2017 it's black friday
+--day of  week - highest one monday 16.3%  and tiem of the day highest in afternoon alomost 39%
 --positive trend in numbers orders registered from jan(2017) to aug (2018)almost 143%
 --advavtages of inc. in no. of orders - ecommerece 142% jump in revenue
+
+3.2 E-Commerce Around Brazil
+
 
 //specific months when the no. of orders increse on balck friday on nov. 24 -2017
 //libreries - seabond and matplotlib.PYPLOT(HOLD SUBMODULES use to plot 2d graph) - histogram , barplot , single 
